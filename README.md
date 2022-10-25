@@ -1,2 +1,2 @@
 # Dsa
-A repo to contribute for Hacktoberfest 2022
+A repository to contribute for Hacktoberfest 2022
