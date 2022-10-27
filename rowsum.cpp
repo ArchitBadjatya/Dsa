@@ -1,12 +1,4 @@
-/*
-    Problem: Print the row wise sum in the 2D Array
-    eg:
-        1 4 9 = 14
-        7 8 9 = 24
-        3 1 2 = 6
-        Output: 14, 24, 6
 
-*/
 #include <iostream>
 using namespace std;
 
