@@ -17,7 +17,7 @@ int search(int arr[], int N, int x)
 // Driver's code
 int main(void)
 {
-	cout<<"Hello This is a Linear Search Program";
+	cout<<"Linear Search Program";
 	int arr[] = { 2, 3, 4, 10, 40 };
 	int x = 10;
 	int N = sizeof(arr) / sizeof(arr[0]);
